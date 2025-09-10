@@ -4,7 +4,7 @@ os.system ("cls")
 
 print("bienvenido al programa de Convertidor de Temperatura")
 
-menu=int(input("""escoja 1 para passar de Celsius-Fahrenheit
+menu=int(input("""escoja 1 para pasar de Celsius-Fahrenheit
 y 2 para pasar de Fahrenheit-Celsius: """))
 
 if menu==1:
